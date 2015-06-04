@@ -1,4 +1,4 @@
-Feature: Visit Github
+Feature: List Cucumber docs
 
   In order to learn Cucumber
   As a developer

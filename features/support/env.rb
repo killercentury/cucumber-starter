@@ -36,7 +36,7 @@ Capybara.default_wait_time = 45
 #end
 
 $host = ENV['host']
-$host ||= 'https://www.github.com'
+$host ||= 'https://cucumber.io'
 Capybara.app_host = $host
 
 require 'test/unit/assertions'
